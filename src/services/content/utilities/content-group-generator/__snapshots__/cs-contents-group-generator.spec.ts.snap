@@ -12,7 +12,7 @@ Object {
         Object {
           "SYS_INTERNAL_LAST_UPDATED_ON": "2019-09-10T06:57:14.868+0000",
           "appIcon": "https://ntpstagingall.blob.core.windows.net/ntp-content-staging/content/do_2128458593096499201172/artifact/_turtle__1549009838461.thumb.jpg",
-          "appId": "staging.diksha.portal",
+          "appId": "staging.sunbird.portal",
           "attributions": Array [
             "Ab",
           ],
@@ -65,9 +65,9 @@ Object {
           "idealScreenSize": "normal",
           "identifier": "do_2128458593096499201172",
           "keywords": Array [
-            "teacher",
+            "user1",
             "Test",
-            "student",
+            "user2",
           ],
           "language": Array [
             "English",
@@ -141,7 +141,7 @@ Object {
         Object {
           "SYS_INTERNAL_LAST_UPDATED_ON": "2019-06-20T08:02:42.480+0000",
           "appIcon": "https://ntpstagingall.blob.core.windows.net/ntp-content-staging/content/do_2126229012892385281329/artifact/download_1540471112504.thumb.png",
-          "appId": "staging.diksha.portal",
+          "appId": "staging.sunbird.portal",
           "audience": Array [
             "Learner",
           ],
@@ -244,7 +244,7 @@ Object {
         Object {
           "SYS_INTERNAL_LAST_UPDATED_ON": "2019-07-18T12:34:22.769+0000",
           "appIcon": "https://ntpstagingall.blob.core.windows.net/ntp-content-staging/content/do_21280780867130982412259/artifact/download_1562667557939.thumb.jpeg",
-          "appId": "staging.diksha.portal",
+          "appId": "staging.sunbird.portal",
           "audience": Array [
             "Learner",
           ],
