@@ -18,7 +18,7 @@
   "dependencies": {
     "@project-sunbird/telemetry-sdk": "0.0.26",
     "inversify": "^5.0.1",
-    "qs": "^6.9.4",
+    "qs": "^6.11.2",
     "reflect-metadata": "^0.1.13",
     "whatwg-fetch": "^3.1.0",
     "jszip": "^3.7.1",
