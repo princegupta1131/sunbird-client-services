@@ -1,7 +1,7 @@
 
 import jsigs from 'jsonld-signatures';
 import {contexts} from 'security-context';
-import {RSAKeyPair, Ed25519KeyPair} from 'crypto-ld';
+const {RSAKeyPair, Ed25519KeyPair} = require('crypto-ld');
 import documentLoaders from 'jsonld';
 import {credentialsv1} from './credentials';
 import { CsHttpRequestType, CsHttpService, CsRequest } from '../../core/http-service/interface';
