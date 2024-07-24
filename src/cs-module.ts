@@ -19,7 +19,7 @@ import {CsUserService} from './services/user/interface';
 import {UserServiceImpl} from './services/user/implementation/user-service-impl';
 import {CsGroupActivityService} from './services/group/activity/interface';
 import {GroupActivityServiceImpl} from './services/group/activity/implementation/group-activity-service-impl';
-import {CsFormService} from './services/form/interface/cs-form-service';
+import {CsFormService, FormParams} from './services/form/interface/cs-form-service';
 import {FormServiceImpl} from './services/form/implementation/form-service-impl';
 import {CsSystemSettingsService} from './services/system-settings/interface';
 import {SystemSettingsServiceImpl} from './services/system-settings/implementation/system-settings-service-impl';
@@ -30,6 +30,7 @@ import { CsNotificationService } from './services/notification/interface/cs-noti
 import { NotificationServiceImpl } from './services/notification/implementation/notification-service-impl';
 import { CsCertificateService } from './services/certificate';
 import { CertificateServiceImpl } from './services/certificate/implementation/certificate-service-impl';
+import { Framework } from './models';
 
 export interface CsDiscussionServiceConfig {
     apiPath: string;
@@ -79,6 +80,21 @@ export interface CsCertificateServiceConfig {
     apiPath: string;
     apiPathLegacy?: string;
     rcApiPath: string;
+}
+export interface CsCertificateServiceConfig {
+    apiPath: string;
+    apiPathLegacy?: string;
+    rcApiPath: string;
+}
+
+export interface CsFrameworkConfig {
+    apiPath: string;
+    framework?: Framework;
+}
+
+export interface CsFormConfig {
+    apiPath: string;
+    params?: FormParams;
 }
 
 export interface CsConfig {
