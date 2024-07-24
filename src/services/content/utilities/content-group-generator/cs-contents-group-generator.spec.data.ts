@@ -45,7 +45,7 @@ export const searchResult = {
                 'gradeLevel': [
                     'Class 1'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': '9497b6ba-2a74-41cf-bf72-cdd0d117cde4',
                 'totalCompressedSize': 0,
@@ -115,9 +115,9 @@ export const searchResult = {
                 ],
                 'copyright': 'Abhi',
                 'keywords': [
-                    'teacher',
+                    'user1',
                     'Test',
-                    'student'
+                    'user2'
                 ],
                 'year': '2004',
                 'subject': 'English',
@@ -158,7 +158,7 @@ export const searchResult = {
                     'do_2128267047888322561514',
                     'do_2126138215303577601484'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': 'ccb9c713-3a2d-4db4-9474-58df071f2133',
                 'totalCompressedSize': 3565898,
@@ -262,7 +262,7 @@ export const searchResult = {
                     'do_2126228660142080001326',
                     'do_2126228575209799681316'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'mimeTypesCount': '{"application/vnd.ekstep.content-collection":2,"application/vnd.ekstep.ecml-archive":3}',
                 'contentType': 'TextBook',
@@ -419,7 +419,7 @@ export const searchResultWithMultiValueAttributes = {
                 'gradeLevel': [
                     'Class 1'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': '9497b6ba-2a74-41cf-bf72-cdd0d117cde4',
                 'totalCompressedSize': 0,
@@ -489,9 +489,9 @@ export const searchResultWithMultiValueAttributes = {
                 ],
                 'copyright': 'Abhi',
                 'keywords': [
-                    'teacher',
+                    'user1',
                     'Test',
-                    'student'
+                    'user2'
                 ],
                 'year': '2004',
                 'subject': ['English'],
@@ -532,7 +532,7 @@ export const searchResultWithMultiValueAttributes = {
                     'do_2128267047888322561514',
                     'do_2126138215303577601484'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': 'ccb9c713-3a2d-4db4-9474-58df071f2133',
                 'totalCompressedSize': 3565898,
@@ -636,7 +636,7 @@ export const searchResultWithMultiValueAttributes = {
                     'do_2126228660142080001326',
                     'do_2126228575209799681316'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'mimeTypesCount': '{"application/vnd.ekstep.content-collection":2,"application/vnd.ekstep.ecml-archive":3}',
                 'contentType': 'TextBook',
@@ -793,7 +793,7 @@ export const searchResultWithNullAttributes = {
                 'gradeLevel': [
                     'Class 1'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': '9497b6ba-2a74-41cf-bf72-cdd0d117cde4',
                 'totalCompressedSize': 0,
@@ -863,9 +863,9 @@ export const searchResultWithNullAttributes = {
                 ],
                 'copyright': 'Abhi',
                 'keywords': [
-                    'teacher',
+                    'user1',
                     'Test',
-                    'student'
+                    'user2'
                 ],
                 'year': '2004',
                 'subject': [null],
@@ -906,7 +906,7 @@ export const searchResultWithNullAttributes = {
                     'do_2128267047888322561514',
                     'do_2126138215303577601484'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': 'ccb9c713-3a2d-4db4-9474-58df071f2133',
                 'totalCompressedSize': 3565898,
@@ -1010,7 +1010,7 @@ export const searchResultWithNullAttributes = {
                     'do_2126228660142080001326',
                     'do_2126228575209799681316'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'mimeTypesCount': '{"application/vnd.ekstep.content-collection":2,"application/vnd.ekstep.ecml-archive":3}',
                 'contentType': 'TextBook',
@@ -1167,7 +1167,7 @@ export const searchResultWithMultiValueSearchableAttributes = {
                 'gradeLevel': [
                     'Class 1'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': '9497b6ba-2a74-41cf-bf72-cdd0d117cde4',
                 'totalCompressedSize': 0,
@@ -1237,9 +1237,9 @@ export const searchResultWithMultiValueSearchableAttributes = {
                 ],
                 'copyright': 'Abhi',
                 'keywords': [
-                    'teacher',
+                    'user1',
                     'Test',
-                    'student'
+                    'user2'
                 ],
                 'year': '2004',
                 'subject': ['English'],
@@ -1280,7 +1280,7 @@ export const searchResultWithMultiValueSearchableAttributes = {
                     'do_2128267047888322561514',
                     'do_2126138215303577601484'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'lockKey': 'ccb9c713-3a2d-4db4-9474-58df071f2133',
                 'totalCompressedSize': 3565898,
@@ -1385,7 +1385,7 @@ export const searchResultWithMultiValueSearchableAttributes = {
                     'do_2126228660142080001326',
                     'do_2126228575209799681316'
                 ],
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'contentEncoding': 'gzip',
                 'mimeTypesCount': '{"application/vnd.ekstep.content-collection":2,"application/vnd.ekstep.ecml-archive":3}',
                 'contentType': 'TextBook',
@@ -1513,7 +1513,7 @@ export const searchResultWithMultiValueSearchableAttributesAndTargetedContent = 
             {
                 'SYS_INTERNAL_LAST_UPDATED_ON': '2019-07-18T12:34:22.769+0000',
                 'appIcon': 'https://ntpstagingall.blob.core.windows.net/ntp-content-staging/content/do_21280780867130982412259/artifact/download_1562667557939.thumb.jpeg',
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'audience': [
                     'Learner'
                 ],
@@ -1613,7 +1613,7 @@ export const searchResultWithMultiValueSearchableAttributesAndTargetedContent = 
             {
                 'SYS_INTERNAL_LAST_UPDATED_ON': '2019-09-10T06:57:14.868+0000',
                 'appIcon': 'https://ntpstagingall.blob.core.windows.net/ntp-content-staging/content/do_2128458593096499201172/artifact/_turtle__1549009838461.thumb.jpg',
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'attributions': [
                     'Ab'
                 ],
@@ -1666,9 +1666,9 @@ export const searchResultWithMultiValueSearchableAttributesAndTargetedContent = 
                 'idealScreenSize': 'normal',
                 'identifier': 'do_2128458593096499201172',
                 'keywords': [
-                    'teacher',
+                    'user1',
                     'Test',
-                    'student'
+                    'user2'
                 ],
                 'language': [
                     'English'
@@ -1740,7 +1740,7 @@ export const searchResultWithMultiValueSearchableAttributesAndTargetedContent = 
             {
                 'SYS_INTERNAL_LAST_UPDATED_ON': '2019-06-20T08:02:42.480+0000',
                 'appIcon': 'https://ntpstagingall.blob.core.windows.net/ntp-content-staging/content/do_2126229012892385281329/artifact/download_1540471112504.thumb.png',
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'audience': [
                     'Learner'
                 ],
@@ -1846,7 +1846,7 @@ export const searchResultWithMultiValueSearchableAttributesAndTargetedContent = 
             {
                 'SYS_INTERNAL_LAST_UPDATED_ON': '2019-06-20T08:02:42.480+0000',
                 'appIcon': 'https://ntpstagingall.blob.core.windows.net/ntp-content-staging/content/do_2126229012892385281329/artifact/download_1540471112504.thumb.png',
-                'appId': 'staging.diksha.portal',
+                'appId': 'staging.sunbird.portal',
                 'audience': [
                     'Learner'
                 ],

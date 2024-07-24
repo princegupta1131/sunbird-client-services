@@ -872,7 +872,7 @@ describe('GroupActivityServiceImpl', () => {
                   "2.0",
                   "EGADXN"
                 ],
-                "c_diksha_preprod_private_batch_count": 0,
+                "c_sunbird_preprod_private_batch_count": 0,
                 "subject": [
                   "Chemistry"
                 ],
@@ -954,7 +954,7 @@ describe('GroupActivityServiceImpl', () => {
                         "gradeLevel": [
                           "Class 10"
                         ],
-                        "appId": "prod.diksha.app",
+                        "appId": "prod.sunbird.app",
                         "usesContent": [],
                         "artifactUrl": "https://ntpproductionall.blob.core.windows.net/ntp-content-production/content/assets/do_31277365926529433615491/b369u4p93as-egadxn-tirrnnn-arrivoom-ilkknnm-potu.pdf",
                         "contentEncoding": "identity",
@@ -1038,7 +1038,7 @@ describe('GroupActivityServiceImpl', () => {
                     "variants": "{\"online\":{\"ecarUrl\":\"https://preprodall.blob.core.windows.net/ntp-content-preprod/ecar_files/do_2129767578773995521545/vk-2.8coursewithassessment5_1584077000745_do_2129767578773995521545_1.0_online.ecar\",\"size\":8033.0},\"spine\":{\"ecarUrl\":\"https://preprodall.blob.core.windows.net/ntp-content-preprod/ecar_files/do_2129767578773995521545/vk-2.8coursewithassessment5_1584077000623_do_2129767578773995521545_1.0_spine.ecar\",\"size\":87475.0}}",
                     "primaryCategory": "Course Unit",
                     "audience": [
-                      "Teacher"
+                      "user1"
                     ]
                   },
                   {
@@ -1144,7 +1144,7 @@ describe('GroupActivityServiceImpl', () => {
                         },
                         "mimeType": "application/vnd.ekstep.ecml-archive",
                         "editorState": "{\"plugin\":{\"noOfExtPlugins\":13,\"extPlugins\":[{\"plugin\":\"org.ekstep.contenteditorfunctions\",\"version\":\"1.2\"},{\"plugin\":\"org.ekstep.keyboardshortcuts\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.richtext\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.iterator\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.navigation\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.reviewercomments\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.questionunit.mtf\",\"version\":\"1.2\"},{\"plugin\":\"org.ekstep.questionunit.mcq\",\"version\":\"1.3\"},{\"plugin\":\"org.ekstep.keyboard\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.questionunit.reorder\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.questionunit.sequence\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.questionunit.ftb\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.summary\",\"version\":\"1.0\"}]},\"stage\":{\"noOfStages\":3,\"currentStage\":\"c37e17de-72dd-40ae-9578-ee2db02d1c55\",\"selectedPluginObject\":\"d901e2e9-67d3-4537-a326-432d5d921e87\"},\"sidebar\":{\"selectedMenu\":\"settings\"}}",
-                        "appId": "preprod.diksha.portal",
+                        "appId": "preprod.sunbird.portal",
                         "artifactUrl": "https://preprodall.blob.core.windows.net/ntp-content-preprod/content/do_2129493337594429441162/artifact/1580729454852_do_2129493337594429441162.zip",
                         "contentEncoding": "gzip",
                         "lockKey": "fc25ffac-91b7-4445-aa23-bd56f50099e7",
@@ -1189,7 +1189,7 @@ describe('GroupActivityServiceImpl', () => {
                         "versionKey": "1580729453124",
                         "idealScreenDensity": "hdpi",
                         "s3Key": "ecar_files/do_2129493337594429441162/kiruba-self-assess_1580729454951_do_2129493337594429441162_1.0.ecar",
-                        "framework": "ncert_k-12",
+                        "framework": "sample_framework",
                         "createdBy": "9e64cc1b-f9f0-4642-8cb3-4fb4afcb5c77",
                         "compatibilityLevel": 2,
                         "resourceType": "Practice",
@@ -1211,7 +1211,7 @@ describe('GroupActivityServiceImpl', () => {
                     "variants": "{\"online\":{\"ecarUrl\":\"https://preprodall.blob.core.windows.net/ntp-content-preprod/ecar_files/do_2129767578773995521545/vk-2.8coursewithassessment5_1584077000745_do_2129767578773995521545_1.0_online.ecar\",\"size\":8033.0},\"spine\":{\"ecarUrl\":\"https://preprodall.blob.core.windows.net/ntp-content-preprod/ecar_files/do_2129767578773995521545/vk-2.8coursewithassessment5_1584077000623_do_2129767578773995521545_1.0_spine.ecar\",\"size\":87475.0}}",
                     "primaryCategory": "Course Unit",
                     "audience": [
-                      "Teacher"
+                      "user1"
                     ]
                   },
                   {
@@ -1254,7 +1254,7 @@ describe('GroupActivityServiceImpl', () => {
                         "mimeType": "application/vnd.ekstep.ecml-archive",
                         "editorState": "{\"plugin\":{\"noOfExtPlugins\":13,\"extPlugins\":[{\"plugin\":\"org.ekstep.contenteditorfunctions\",\"version\":\"1.2\"},{\"plugin\":\"org.ekstep.keyboardshortcuts\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.richtext\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.iterator\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.navigation\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.reviewercomments\",\"version\":\"1.0\"},{\"plugin\":\"org.ekstep.questionunit.mtf\",\"version\":\"1.2\"},{\"plugin\":\"org.ekstep.questionunit.mcq\",\"version\":\"1.3\"},{\"plugin\":\"org.ekstep.keyboard\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.questionunit.reorder\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.questionunit.sequence\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.questionunit.ftb\",\"version\":\"1.1\"},{\"plugin\":\"org.ekstep.summary\",\"version\":\"1.0\"}]},\"stage\":{\"noOfStages\":3,\"currentStage\":\"ce156437-cc87-4de1-989e-ba8d2d9ed040\",\"selectedPluginObject\":\"23c1e8e6-8dc6-4b3a-badb-d800127035dd\"},\"sidebar\":{\"selectedMenu\":\"settings\"}}",
                         "appIcon": "https://preprodall.blob.core.windows.net/ntp-content-preprod/content/do_2129505877663989761263/artifact/download-1_1580877495193.thumb.jpg",
-                        "appId": "preprod.diksha.portal",
+                        "appId": "preprod.sunbird.portal",
                         "usesContent": [],
                         "artifactUrl": "https://preprodall.blob.core.windows.net/ntp-content-preprod/content/do_2129505877663989761263/artifact/1580883377371_do_2129505877663989761263.zip",
                         "contentEncoding": "gzip",
@@ -1328,13 +1328,13 @@ describe('GroupActivityServiceImpl', () => {
                     "variants": "{\"online\":{\"ecarUrl\":\"https://preprodall.blob.core.windows.net/ntp-content-preprod/ecar_files/do_2129767578773995521545/vk-2.8coursewithassessment5_1584077000745_do_2129767578773995521545_1.0_online.ecar\",\"size\":8033.0},\"spine\":{\"ecarUrl\":\"https://preprodall.blob.core.windows.net/ntp-content-preprod/ecar_files/do_2129767578773995521545/vk-2.8coursewithassessment5_1584077000623_do_2129767578773995521545_1.0_spine.ecar\",\"size\":87475.0}}",
                     "primaryCategory": "Course Unit",
                     "audience": [
-                      "Teacher"
+                      "user1"
                     ]
                   }
                 ],
                 "collections": [],
                 "primaryCategory": "Course",
-                "appId": "preprod.diksha.portal",
+                "appId": "preprod.sunbird.portal",
                 "contentEncoding": "gzip",
                 "lockKey": "9f7fc44f-4bfd-497d-90b9-02a3791c821d",
                 "totalCompressedSize": 1649105,
@@ -1342,7 +1342,7 @@ describe('GroupActivityServiceImpl', () => {
                 "contentType": "Course",
                 "identifier": "do_2129767578773995521545",
                 "audience": [
-                  "Teacher"
+                  "user1"
                 ],
                 "toc_url": "https://preprodall.blob.core.windows.net/ntp-content-preprod/content/do_2129767578773995521545/artifact/do_2129767578773995521545_toc.json",
                 "visibility": "Default",
@@ -1385,7 +1385,7 @@ describe('GroupActivityServiceImpl', () => {
                 },
                 "copyrightYear": 2020,
                 "contentDisposition": "inline",
-                "licenseterms": "By creating any type of content (resources, books, courses etc.) on DIKSHA, you consent to publish it under the Creative Commons License Framework. Please choose the applicable creative commons license you wish to apply to your content.",
+                "licenseterms": "By creating any type of content (resources, books, courses etc.) on app, you consent to publish it under the Creative Commons License Framework. Please choose the applicable creative commons license you wish to apply to your content.",
                 "lastUpdatedOn": "2020-03-13T05:23:20.149+0000",
                 "originData": {
                   "license": "CC BY 4.0",
@@ -1405,7 +1405,7 @@ describe('GroupActivityServiceImpl', () => {
                 "os": [
                   "All"
                 ],
-                "c_diksha_preprod_open_batch_count": 1,
+                "c_sunbird_preprod_open_batch_count": 1,
                 "pkgVersion": 1,
                 "versionKey": "1584077000149",
                 "idealScreenDensity": "hdpi",
