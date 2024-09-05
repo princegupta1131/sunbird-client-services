@@ -16,14 +16,14 @@
     "sonar-scanner": "sonar-scanner"
   },
   "dependencies": {
-    "@project-sunbird/telemetry-sdk": "0.0.26",
+    "@project-sunbird/telemetry-sdk": "1.1.0",
     "inversify": "^5.0.1",
     "qs": "^6.9.4",
     "reflect-metadata": "^0.1.13",
     "whatwg-fetch": "^3.1.0",
     "jszip": "^3.7.1",
     "jsonld": "^5.2.0",
-    "jsonld-signatures": "^6.0.0",
+    "jsonld-signatures": "^10.0.0",
     "moment": "^2.29.4",
     "node-fetch": "2.6.5"
   },
